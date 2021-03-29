@@ -18,5 +18,5 @@ https://apps.apple.com/us/app/glimpse-2/id1524217845
 
 Screenshot:
 
-![alt text](https://git.vzbuilders.com/kex/ytd/blob/master/Screenshot%202021-03-29%20at%203.31.31%20PM.png)
+![alt text](Screenshot%202021-03-29%20at%203.31.31%20PM.png)
 
