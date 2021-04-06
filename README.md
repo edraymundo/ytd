@@ -1,5 +1,8 @@
 YTD Widget that shows the year to date increase for a particular stock or index fund. You will need to setup your local webserver on the Mac and use Glimpse 2 to create the widget
 
+* Update
+Created a new version: index2.php. You only need Glimpse 2 for this version.
+
 * Get your own token for the API here:
 https://rapidapi.com/apidojo/api/yahoo-finance1?endpoint=apiendpoint_33e0cec5-0f8a-4f9f-a6dc-018e6762fbe7
 
